@@ -1,0 +1,26 @@
+;;; Visual LISP 生成文件 [V1.0] Compile_V2_0 saved to:[D:/AutoLisp/Code/AispTools_program_InputDirectionInformation/debug] at:[11/21/20] 
+(PRV-DEF
+  (:target . "Compile_V2_0.VLX")
+  (:active-x . T)
+  (:separate-namespace)
+  (:protected . T)
+  (:load-file-list
+    (:lsp
+      "D:/AutoLisp/Code/AispTools_program_InputDirectionInformation/ReactorFunction.lsp"
+    )
+    (:lsp
+      "D:/AutoLisp/Code/AispTools_program_InputDirectionInformation/OpenDCLEvent.LSP"
+    )
+    (:lsp
+      "D:/AutoLisp/Code/AispTools_program_InputDirectionInformation/TheMainProgram.LSP"
+    )
+    (:lsp
+      "D:/AutoLisp/Code/AispTools_program_InputDirectionInformation/InterfaceDriver.lsp"
+    )
+  )
+  (:require-file-list)
+  (:ob-directory)
+  (:tmp-directory)
+  (:optimization . st)
+)
+;; EOF
